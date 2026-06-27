@@ -8,9 +8,9 @@
 Hi there 👋 I'm Pradeep Bandaru
 </h1>
 
-<h3 align="center">
+<!-- <h3 align="center">
 Performance Engineer • AI Engineer
-</h3>
+</h3> -->
 
 <p align="center">
 <img src="https://img.shields.io/badge/Experience-8%2B%20Years-2563EB?style=for-the-badge"/>
@@ -20,7 +20,7 @@ Performance Engineer • AI Engineer
 
 ---
 
-I'm a **Performance Engineer** with **8+ years** of experience building scalable, resilient enterprise systems for the banking and insurance industry. My expertise spans performance engineering, observability, root cause analysis, and capacity planning. Today, I'm expanding into **AI Engineering**, **LLMs**, and **Agentic Systems**, driven by a passion for building software that is not just faster, but smarter.
+A **Performance Engineer** with **8+ years** of experience building scalable, resilient enterprise systems for the banking and insurance industry. Expertise spans performance engineering, observability, root cause analysis, and capacity planning. Today, I'm expanding into **AI Engineering**, **LLMs**, and **Agentic Systems**, driven by a passion for building software that is not just faster, but smarter.
 
 🎓 Pursuing **M.Sc. in Data Science & Artificial Intelligence**
 
