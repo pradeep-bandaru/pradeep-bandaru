@@ -15,19 +15,6 @@ Building scalable systems today while exploring the future with AI.
 
 ---
 
-## Table of contents
-- [About](#about)
-- [What I Work With](#what-i-work-with)
-- [Tech Stack](#tech-stack)
-- [Currently Learning](#currently-learning)
-- [Professional Highlights](#professional-highlights)
-- [Featured Projects](#featured-projects)
-- [GitHub Analytics](#github-analytics)
-- [Connect](#connect)
-- [Quote](#quote)
-
----
-
 ## About
 I'm a Performance Engineer with 8+ years of experience helping enterprise applications scale reliably under real-world workloads. My core work is focused on performance engineering, observability, root cause analysis, and capacity planning for large-scale banking and insurance systems. Lately I’ve been expanding into AI, LLM engineering, and agentic workflows to build software that is not only fast, but intelligent.
 
@@ -82,7 +69,7 @@ Pursuing: M.Sc. in Data Science & Artificial Intelligence
 - Dynatrace • AppDynamics • Splunk • Grafana
 
 ### Databases & Analytics
-- Oracle • SQL Server • PostgreSQL • MySQL • MongoDB • Redis  
+- Oracle • SQL Server • MySQL • MongoDB
 - Power BI • Tableau
 
 ---
@@ -132,6 +119,12 @@ Pursuing: M.Sc. in Data Science & Artificial Intelligence
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeep-bandaru&theme=github-compact" alt="activity graph"/>
 </p>
 
+<p align="center">
+  <i>
+    "Great software isn't measured by how fast it runs when everything goes right—it's measured by how gracefully it performs when everything gets difficult."
+  </i>
+</p>
+
 ---
 
 ## Connect
@@ -148,11 +141,6 @@ Pursuing: M.Sc. in Data Science & Artificial Intelligence
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="github"/>
   </a>
 </p>
-
----
-
-## Quote
-> "Great software isn't measured by how fast it runs when everything goes right—it's measured by how gracefully it performs when everything gets difficult."
 
 ---
 
