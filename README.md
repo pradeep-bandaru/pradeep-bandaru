@@ -103,10 +103,12 @@ I'm a **Performance Engineer** with **8+ years** of experience building scalable
 </div>
 
 ---
-<div align="center">
+
 
 ## 🤝 Connect
 
+<div align="center">
+  
 <a href="mailto:b.pradeep0404@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
