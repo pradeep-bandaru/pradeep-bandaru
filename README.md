@@ -1,153 +1,217 @@
-<!-- ========================= -->
-<!--        PROFILE README     -->
-<!-- ========================= -->
+<!-- ===================================================== -->
 
-<h1 align="center">Hi 👋 I'm Pradeep Bandaru</h1>
+<!--                   PROFILE README                      -->
+
+<!-- ===================================================== -->
+
+<h1 align="center">
+Hi there 👋 I'm Pradeep Bandaru
+</h1>
 
 <h3 align="center">
 Performance Engineer • AI Engineer
 </h3>
 
 <p align="center">
-<b>Engineering Intelligent, Scalable & High-Performance Systems</b>
+Building scalable systems today while exploring the future with AI.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Performance+Engineering;Artificial+Intelligence;Distributed+Systems;Cloud+Native;Observability;Automation;Always+Learning" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Performance+Engineering;Artificial+Intelligence;Distributed+Systems;Cloud+Native;Observability;Always+Learning" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Experience-8%2B%20Years-111827?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Focus-Performance%20%2B%20AI-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20to-Learning-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Experience-8%2B%20Years-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Specialization-Performance%20Engineering-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Currently-Learning%20AI-7C3AED?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-I'm a **Performance Engineer with 8+ years of enterprise experience** delivering scalable, resilient and high-performing applications.
+I'm a **Performance Engineer** with over **8 years of experience** helping enterprise applications scale reliably under real-world workloads.
 
-My engineering approach goes beyond load generation—combining **Performance Engineering, Observability, Distributed Systems, Cloud Native technologies and Artificial Intelligence** to understand *why* systems fail and *how* they can scale.
+Most of my career has been focused on performance engineering, observability, root cause analysis, and capacity planning for large-scale banking and insurance systems.
 
-🎓 Pursuing **M.Sc. Data Science & AI**
+Lately, I've been expanding into **Artificial Intelligence**, **LLM Engineering**, and **Agentic Workflows**, with the goal of building software that is not only fast, but intelligent.
 
----
+I enjoy solving complex engineering problems, understanding how systems behave under pressure, and continuously learning technologies that shape the future of software engineering.
 
-# 🧠 Engineering Expertise
-
-- Enterprise Performance Engineering
-- Performance Test Strategy
-- Scalability & Capacity Planning
-- Distributed Systems
-- Root Cause Analysis
-- JVM Performance Analysis
-- Thread & Heap Dump Analysis
-- SQL Performance Optimization
-- Observability
-- Cloud Native Performance
-- AI-assisted Engineering
+🎓 Pursuing **M.Sc. in Data Science & Artificial Intelligence**
 
 ---
 
-# ⚔️ Tech Arsenal
+# 🧠 What I Work With
 
-### 💻 Languages
+* Performance Engineering
+* Scalability & Capacity Planning
+* Distributed Systems
+* Root Cause Analysis
+* JVM Performance
+* SQL Performance Tuning
+* Observability
+* Cloud Native Applications
+* AI-assisted Engineering
+
+---
+
+# ⚙️ Tech Stack
+
+### Languages
+
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,bash"/>
+<img title="Python" height="40" src="https://skillicons.dev/icons?i=python"/>
+<img title="Java" height="40" src="https://skillicons.dev/icons?i=java"/>
+<img title="JavaScript" height="40" src="https://skillicons.dev/icons?i=javascript"/>
+<img title="Bash" height="40" src="https://skillicons.dev/icons?i=bash"/>
 </p>
 
-### ☁️ Cloud & Containers
+### Cloud & DevOps
+
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,linux,git,github"/>
+<img title="Docker" height="40" src="https://skillicons.dev/icons?i=docker"/>
+<img title="Kubernetes" height="40" src="https://skillicons.dev/icons?i=kubernetes"/>
+<img title="AWS" height="40" src="https://skillicons.dev/icons?i=aws"/>
+<img title="Azure" height="40" src="https://skillicons.dev/icons?i=azure"/>
+<img title="Linux" height="40" src="https://skillicons.dev/icons?i=linux"/>
+<img title="Git" height="40" src="https://skillicons.dev/icons?i=git"/>
+<img title="GitHub" height="40" src="https://skillicons.dev/icons?i=github"/>
 </p>
 
-### 🤖 AI
+### AI & LLMs
+
 <p>
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square"/>
-<img src="https://img.shields.io/badge/LangChain-0EA5E9?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/MCP-2563EB?style=flat-square"/>
+<img title="Python" height="40" src="https://skillicons.dev/icons?i=python"/>
+<img title="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square"/>
+<img title="LangChain" src="https://img.shields.io/badge/LangChain-0EA5E9?style=flat-square"/>
+<img title="RAG" src="https://img.shields.io/badge/RAG-111827?style=flat-square"/>
+<img title="MCP" src="https://img.shields.io/badge/MCP-2563EB?style=flat-square"/>
 </p>
 
-### 📊 Performance Engineering
+### Performance Engineering
 
-`LoadRunner` • `VuGen` • `Performance Center` • `JMeter` • `Gatling` • `NeoLoad` • `k6`
+`LoadRunner` • `JMeter` • `Gatling` • `NeoLoad` • `k6`
 
-### 📈 Observability
+### Observability
 
-`Dynatrace` • `AppDynamics` • `Splunk` • `Grafana` • `Prometheus` • `Datadog`
+`Dynatrace` • `AppDynamics` • `Splunk` • `Grafana`
 
-### 🗄️ Databases
+### Databases
 
 `Oracle` • `SQL Server` • `PostgreSQL` • `MySQL` • `MongoDB` • `Redis`
 
----
+### Analytics
 
-# 🌱 Currently Exploring
-
-- AI Agents
-- LLM Engineering
-- Agentic Workflows
-- Kubernetes Performance
-- System Design
-- MLOps
+`Power BI` • `Tableau`
 
 ---
 
-# 🏆 Professional Highlights
+# 🌱 Currently Learning
 
-- ✅ 8+ Years Experience
-- ✅ Enterprise Banking & Insurance
-- ✅ Performance CoE
-- ✅ AI Governance Exposure
-- ✅ Performance Automation
-- ✅ Technical Interviewer & Mentor
-
----
-
-# 📌 Featured Projects
-
-> Replace these placeholders with your repositories.
-
-- 🤖 AI Performance Copilot
-- ⚡ Enterprise JMeter Framework
-- 📊 Performance Dashboard
-- ☁️ Kubernetes Performance Labs
-- 🧩 System Design Notes
-- 🚀 Dynatrace Automation Toolkit
+* AI Agents
+* LLM Engineering
+* Agentic Workflows
+* System Design
+* Kubernetes Performance
+* MLOps
 
 ---
 
-# 📊 GitHub Analytics
+# 💼 Professional Highlights
+
+* ✅ 8+ Years of Performance Engineering Experience
+* ✅ Banking & Insurance Domain Expertise
+* ✅ Performance Center of Excellence (CoE)
+* ✅ AI Governance Exposure
+* ✅ Performance Test Automation
+* ✅ Technical Interviewer & Mentor
+
+---
+
+# 🚀 Featured Projects
+
+> *(These repositories are currently under development and will be published soon.)*
+
+* 🤖 AI Performance Copilot
+* ⚡ Enterprise Performance Framework
+* 📊 Performance Analytics Dashboard
+* ☁️ Kubernetes Performance Labs
+* 🧩 System Design Notes
+* 🚀 Dynatrace Automation Toolkit
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pradeep-bandaru&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-bandaru&layout=compact&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pradeep-bandaru&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-bandaru&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=pradeep-bandaru&theme=github-dark-blue&hide_border=true"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeep-bandaru&theme=github-compact"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pradeep-bandaru&theme=algolia&no-frame=true&row=1&column=6"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=pradeep-bandaru&theme=algolia&no-frame=true&margin-w=12&margin-h=12"/>
+
 </p>
 
 ---
 
 # 🤝 Let's Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/pradeep-bandaru-b91b6161
-- 📧 Email: b.pradeep0404@gmail
+<p align="center">
+
+<a href="mailto:b.pradeep0404@gmail" title="Email">
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+</a>
+
+   
+
+<a href="https://www.linkedin.com/in/pradeep-bandaru-b91b6161" title="LinkedIn">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+</a>
+
+   
+
+<a href="https://github.com/pradeep-bandaru" title="GitHub">
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-<i>"Performance is not just about speed—it's about building systems that remain reliable, scalable and intelligent under real-world demand."</i>
+
+<img src="https://komarev.com/ghpvc/?username=pradeep-bandaru&label=Profile%20Views&color=2563EB&style=flat"/>
+
+</p>
+
+<p align="center">
+
+<i>
+"Great software isn't measured by how fast it runs when everything goes right—it's measured by how gracefully it performs when everything gets difficult."
+</i>
+
+</p>
+
+<p align="center">
+
+⭐ Thanks for stopping by!
+
 </p>
