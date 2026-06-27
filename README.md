@@ -15,7 +15,7 @@ Performance Engineer • AI Engineer
 <p align="center">
 <img src="https://img.shields.io/badge/Experience-8%2B%20Years-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Specialization-Performance%20Engineering-0F766E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Currently-🎓Msc. Data Science%20&%20AI-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Currently-🎓 Msc. Data Science%20&%20AI-7C3AED?style=for-the-badge"/>
 </p>
 
 ---
