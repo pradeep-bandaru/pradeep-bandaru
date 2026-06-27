@@ -15,14 +15,12 @@ Performance Engineer • AI Engineer
 <p align="center">
 <img src="https://img.shields.io/badge/Experience-8%2B%20Years-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Specialization-Performance%20Engineering-0F766E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Currently-Learning%20AI-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Currently-🎓Msc. Data Science%20&%20AI-7C3AED?style=for-the-badge"/>
 </p>
 
 ---
 
 A **Performance Engineer** with **8+ years** of experience building scalable, resilient enterprise systems for the banking and insurance industry. Expertise spans performance engineering, observability, root cause analysis, and capacity planning. Today, I'm expanding into **AI Engineering**, **LLMs**, and **Agentic Systems**, driven by a passion for building software that is not just faster, but smarter.
-
-🎓 Pursuing **M.Sc. in Data Science & Artificial Intelligence**
 
 ---
 
