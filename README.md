@@ -1,35 +1,15 @@
-## Hi there 👋
-
-<!--
-**pradeep-bandaru/pradeep-bandaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 <!-- ========================= -->
 <!--        PROFILE README     -->
-<!-- Replace YOUR_USERNAME, LinkedIn and Email -->
 <!-- ========================= -->
 
-<h1 align="center">Hi 馃憢 I'm Pradeep Bandaru</h1>
+<h1 align="center">Hi 👋 I'm Pradeep Bandaru</h1>
 
 <h3 align="center">
-Performance Engineer 鈥� AI Engineer
+Performance Engineer • AI Engineer
 </h3>
 
 <p align="center">
-<b>Engineering Intelligent, Scalable & High鈥慞erformance Systems</b>
+<b>Engineering Intelligent, Scalable & High-Performance Systems</b>
 </p>
 
 <p align="center">
@@ -44,17 +24,17 @@ Performance Engineer 鈥� AI Engineer
 
 ---
 
-# 馃殌 About Me
+# 🚀 About Me
 
 I'm a **Performance Engineer with 8+ years of enterprise experience** delivering scalable, resilient and high-performing applications.
 
-My engineering approach goes beyond load generation鈥攃ombining **Performance Engineering, Observability, Distributed Systems, Cloud Native technologies and Artificial Intelligence** to understand *why* systems fail and *how* they can scale.
+My engineering approach goes beyond load generation—combining **Performance Engineering, Observability, Distributed Systems, Cloud Native technologies and Artificial Intelligence** to understand *why* systems fail and *how* they can scale.
 
-馃帗 Pursuing **M.Sc. Data Science & AI**
+🎓 Pursuing **M.Sc. Data Science & AI**
 
 ---
 
-# 馃 Engineering Expertise
+# 🧠 Engineering Expertise
 
 - Enterprise Performance Engineering
 - Performance Test Strategy
@@ -70,19 +50,19 @@ My engineering approach goes beyond load generation鈥攃ombining **Performance 
 
 ---
 
-# 鈿旓笍 Tech Arsenal
+# ⚔️ Tech Arsenal
 
-### 馃捇 Languages
+### 💻 Languages
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,js,bash"/>
 </p>
 
-### 鈽侊笍 Cloud & Containers
+### ☁️ Cloud & Containers
 <p>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,linux,git,github"/>
 </p>
 
-### 馃 AI
+### 🤖 AI
 <p>
 <img src="https://skillicons.dev/icons?i=python"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square"/>
@@ -91,21 +71,21 @@ My engineering approach goes beyond load generation鈥攃ombining **Performance 
 <img src="https://img.shields.io/badge/MCP-2563EB?style=flat-square"/>
 </p>
 
-### 馃搳 Performance Engineering
+### 📊 Performance Engineering
 
-`LoadRunner` 鈥� `VuGen` 鈥� `Performance Center` 鈥� `JMeter` 鈥� `Gatling` 鈥� `NeoLoad` 鈥� `k6`
+`LoadRunner` • `VuGen` • `Performance Center` • `JMeter` • `Gatling` • `NeoLoad` • `k6`
 
-### 馃搱 Observability
+### 📈 Observability
 
-`Dynatrace` 鈥� `AppDynamics` 鈥� `Splunk` 鈥� `Grafana` 鈥� `Prometheus` 鈥� `Datadog`
+`Dynatrace` • `AppDynamics` • `Splunk` • `Grafana` • `Prometheus` • `Datadog`
 
-### 馃梽锔� Databases
+### 🗄️ Databases
 
-`Oracle` 鈥� `SQL Server` 鈥� `PostgreSQL` 鈥� `MySQL` 鈥� `MongoDB` 鈥� `Redis`
+`Oracle` • `SQL Server` • `PostgreSQL` • `MySQL` • `MongoDB` • `Redis`
 
 ---
 
-# 馃尡 Currently Exploring
+# 🌱 Currently Exploring
 
 - AI Agents
 - LLM Engineering
@@ -116,58 +96,58 @@ My engineering approach goes beyond load generation鈥攃ombining **Performance 
 
 ---
 
-# 馃弳 Professional Highlights
+# 🏆 Professional Highlights
 
-- 鉁� 8+ Years Experience
-- 鉁� Enterprise Banking & Insurance
-- 鉁� Performance CoE
-- 鉁� AI Governance Exposure
-- 鉁� Performance Automation
-- 鉁� Technical Interviewer & Mentor
+- ✅ 8+ Years Experience
+- ✅ Enterprise Banking & Insurance
+- ✅ Performance CoE
+- ✅ AI Governance Exposure
+- ✅ Performance Automation
+- ✅ Technical Interviewer & Mentor
 
 ---
 
-# 馃搶 Featured Projects
+# 📌 Featured Projects
 
 > Replace these placeholders with your repositories.
 
-- 馃 AI Performance Copilot
-- 鈿� Enterprise JMeter Framework
-- 馃搳 Performance Dashboard
-- 鈽侊笍 Kubernetes Performance Labs
-- 馃З System Design Notes
-- 馃殌 Dynatrace Automation Toolkit
+- 🤖 AI Performance Copilot
+- ⚡ Enterprise JMeter Framework
+- 📊 Performance Dashboard
+- ☁️ Kubernetes Performance Labs
+- 🧩 System Design Notes
+- 🚀 Dynatrace Automation Toolkit
 
 ---
 
-# 馃搳 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pradeep-bandaru&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-bandaru&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=pradeep-bandaru&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeep-bandaru&theme=github-compact"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pradeep-bandaru&theme=algolia&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
-# 馃 Let's Connect
+# 🤝 Let's Connect
 
-- 馃捈 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 馃摟 Email: YOUR_EMAIL
+- 💼 LinkedIn: https://www.linkedin.com/in/pradeep-bandaru-b91b6161
+- 📧 Email: b.pradeep0404@gmail
 
 ---
 
 <p align="center">
-<i>"Performance is not just about speed鈥攊t's about building systems that remain reliable, scalable and intelligent under real-world demand."</i>
+<i>"Performance is not just about speed—it's about building systems that remain reliable, scalable and intelligent under real-world demand."</i>
 </p>
