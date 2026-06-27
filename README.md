@@ -13,14 +13,6 @@ Performance Engineer • AI Engineer
 </h3>
 
 <p align="center">
-Building scalable systems today while exploring the future with AI.
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Performance+Engineering;Artificial+Intellige..."/>
-</p>
-
-<p align="center">
 <img src="https://img.shields.io/badge/Experience-8%2B%20Years-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Specialization-Performance%20Engineering-0F766E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Currently-Learning%20AI-7C3AED?style=for-the-badge"/>
@@ -132,3 +124,7 @@ I'm a **Performance Engineer** with **8+ years** of experience building scalable
 > **"Performance isn't just about speed—it's about building systems that remain reliable, scalable, and intelligent when it matters most."**
 
 </div>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Performance+Engineering;Artificial+Intellige..."/>
+</p>
