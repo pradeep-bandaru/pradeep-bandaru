@@ -4,9 +4,9 @@
 
 <!-- ===================================================== -->
 
-<h1 align="center">
+<!-- <h1 align="center">
 Hi there 👋 I'm Pradeep Bandaru
-</h1>
+</h1> -->
 
 <!-- <h3 align="center">
 Performance Engineer • AI Engineer
