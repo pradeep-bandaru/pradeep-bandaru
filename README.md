@@ -37,19 +37,19 @@ A **Performance Engineer** with **8+ years** of experience building scalable, re
 
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <a href="#" title="LoadRunner">
-    <img src="https://www.microfocus.com/media/image/e1/5e/14/LoadRunner_Icon.png" height="40" alt="LoadRunner"/>
+    <img src="https://www.microfocus.com/media/4793657/loadrunner-icon.svg" height="40" alt="LoadRunner"/>
   </a>
   <a href="#" title="JMeter">
-    <img src="https://jmeter.apache.org/images/favicon.png" height="40" alt="JMeter"/>
+    <img src="https://jmeter.apache.org/images/jmeter.png" height="40" alt="JMeter"/>
   </a>
   <a href="#" title="Gatling">
-    <img src="https://gatling.io/wp-content/uploads/2018/02/gatling.png" height="40" alt="Gatling"/>
+    <img src="https://gatling.io/wp-content/uploads/2020/02/gatling-logo.png" height="40" alt="Gatling"/>
   </a>
   <a href="#" title="NeoLoad">
-    <img src="https://www.neotys.com/hubfs/Product_Navigation_Icons/NeoLoad%202.png" height="40" alt="NeoLoad"/>
+    <img src="https://www.neotys.com/hubfs/Images/brand/Neotys%20Logo%20SVG.svg" height="40" alt="NeoLoad"/>
   </a>
   <a href="#" title="k6">
-    <img src="https://cdn.worldvectorlogo.com/logos/k6-1.svg" height="40" alt="k6"/>
+    <img src="https://raw.githubusercontent.com/grafana/k6/master/assets/k6-logo-gradient.svg" height="40" alt="k6"/>
   </a>
 </div>
 
@@ -61,16 +61,16 @@ A **Performance Engineer** with **8+ years** of experience building scalable, re
 
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <a href="#" title="Dynatrace">
-    <img src="https://www.dynatrace.com/news/blog/favicon.ico" height="40" alt="Dynatrace"/>
+    <img src="https://assets.dynatrace.com/content/dam/dynatrace/misc/logo_200x200.png" height="40" alt="Dynatrace"/>
   </a>
   <a href="#" title="AppDynamics">
-    <img src="https://www.appdynamics.com/media/1123/app-dynamics-icon.png" height="40" alt="AppDynamics"/>
+    <img src="https://www.appdynamics.com/media/1123/app_d_icon_70x70.png" height="40" alt="AppDynamics"/>
   </a>
   <a href="#" title="Splunk">
-    <img src="https://www.splunk.com/content/dam/splunk-blogs/images/2021-10/splunk.png" height="40" alt="Splunk"/>
+    <img src="https://www.splunk.com/content/dam/splunk-blogs/en_us/2021/09/splunk.png" height="40" alt="Splunk"/>
   </a>
   <a href="#" title="Grafana">
-    <img src="https://grafana.com/_next/image?url=https%3A%2F%2Fcdn-media-1.freepik.com%2Ffiles%2Fpreview%2F195%2F913%2F195913146_w.jpg&w=256&q=75" height="40" alt="Grafana"/>
+    <img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" height="40" alt="Grafana"/>
   </a>
 </div>
 
@@ -102,19 +102,19 @@ A **Performance Engineer** with **8+ years** of experience building scalable, re
 
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <a href="#" title="Oracle">
-    <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" height="40" alt="Oracle"/>
+    <img src="https://www.oracle.com/asset/web/favicons/favicon-16.png" height="30" alt="Oracle"/>
   </a>
   <a href="#" title="SQL Server">
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" height="40" alt="SQL Server"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftsqlserver.svg" height="40" alt="SQL Server"/>
   </a>
   <a href="#" title="PostgreSQL">
-    <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" height="40" alt="PostgreSQL"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg" height="40" alt="PostgreSQL"/>
   </a>
   <a href="#" title="MongoDB">
-    <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" height="40" alt="MongoDB"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mongodb.svg" height="40" alt="MongoDB"/>
   </a>
   <a href="#" title="Redis">
-    <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" height="40" alt="Redis"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/redis.svg" height="40" alt="Redis"/>
   </a>
 </div>
 
@@ -126,10 +126,10 @@ A **Performance Engineer** with **8+ years** of experience building scalable, re
 
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <a href="#" title="Power BI">
-    <img src="https://cdn.worldvectorlogo.com/logos/power-bi-2.svg" height="40" alt="Power BI"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" height="40" alt="Power BI"/>
   </a>
   <a href="#" title="Tableau">
-    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software-3.svg" height="40" alt="Tableau"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" height="40" alt="Tableau"/>
   </a>
 </div>
 
