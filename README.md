@@ -20,7 +20,7 @@ Performance Engineer • AI Engineer
 
 ---
 
-A **Performance Engineer** with **8+ years** of experience building scalable, resilient enterprise systems for the banking and insurance industry. Expertise spans performance engineering, observability, root cause analysis, and capacity planning. Today, I'm expanding into **AI Engineering**, **LLMs**, and **Agentic Systems**, driven by a passion for building software that is not just faster, but smarter.
+A **Performance Engineer** with **8+ years** of experience building scalable, resilient enterprise systems for the banking and insurance industry. Expertise spans performance engineering, observability, cloud architecture, and AI-driven optimization. Passionate about leveraging data science and machine learning to solve complex performance challenges at scale.
 
 ---
 
@@ -35,11 +35,23 @@ A **Performance Engineer** with **8+ years** of experience building scalable, re
 
 ### ⚡ Performance
 
-![LoadRunner](https://img.shields.io/badge/LoadRunner-8A2BE2?style=for-the-badge)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge)
-![Gatling](https://img.shields.io/badge/Gatling-FF9E2C?style=for-the-badge)
-![NeoLoad](https://img.shields.io/badge/NeoLoad-00AEEF?style=for-the-badge)
-![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge)
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <a href="#" title="LoadRunner">
+    <img src="https://www.microfocus.com/media/image/e1/5e/14/LoadRunner_Icon.png" height="40" alt="LoadRunner"/>
+  </a>
+  <a href="#" title="JMeter">
+    <img src="https://jmeter.apache.org/images/favicon.png" height="40" alt="JMeter"/>
+  </a>
+  <a href="#" title="Gatling">
+    <img src="https://gatling.io/wp-content/uploads/2018/02/gatling.png" height="40" alt="Gatling"/>
+  </a>
+  <a href="#" title="NeoLoad">
+    <img src="https://www.neotys.com/hubfs/Product_Navigation_Icons/NeoLoad%202.png" height="40" alt="NeoLoad"/>
+  </a>
+  <a href="#" title="k6">
+    <img src="https://cdn.worldvectorlogo.com/logos/k6-1.svg" height="40" alt="k6"/>
+  </a>
+</div>
 
 </td>
 
@@ -47,10 +59,20 @@ A **Performance Engineer** with **8+ years** of experience building scalable, re
 
 ### 📊 Observability
 
-![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge)
-![AppDynamics](https://img.shields.io/badge/AppDynamics-30B980?style=for-the-badge)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge)
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <a href="#" title="Dynatrace">
+    <img src="https://www.dynatrace.com/news/blog/favicon.ico" height="40" alt="Dynatrace"/>
+  </a>
+  <a href="#" title="AppDynamics">
+    <img src="https://www.appdynamics.com/media/1123/app-dynamics-icon.png" height="40" alt="AppDynamics"/>
+  </a>
+  <a href="#" title="Splunk">
+    <img src="https://www.splunk.com/content/dam/splunk-blogs/images/2021-10/splunk.png" height="40" alt="Splunk"/>
+  </a>
+  <a href="#" title="Grafana">
+    <img src="https://grafana.com/_next/image?url=https%3A%2F%2Fcdn-media-1.freepik.com%2Ffiles%2Fpreview%2F195%2F913%2F195913146_w.jpg&w=256&q=75" height="40" alt="Grafana"/>
+  </a>
+</div>
 
 </td>
 
@@ -78,11 +100,23 @@ A **Performance Engineer** with **8+ years** of experience building scalable, re
 
 ### 🗄 Databases
 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge)
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <a href="#" title="Oracle">
+    <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" height="40" alt="Oracle"/>
+  </a>
+  <a href="#" title="SQL Server">
+    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" height="40" alt="SQL Server"/>
+  </a>
+  <a href="#" title="PostgreSQL">
+    <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" height="40" alt="PostgreSQL"/>
+  </a>
+  <a href="#" title="MongoDB">
+    <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" height="40" alt="MongoDB"/>
+  </a>
+  <a href="#" title="Redis">
+    <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" height="40" alt="Redis"/>
+  </a>
+</div>
 
 </td>
 
@@ -90,8 +124,14 @@ A **Performance Engineer** with **8+ years** of experience building scalable, re
 
 ### 📈 Analytics
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <a href="#" title="Power BI">
+    <img src="https://cdn.worldvectorlogo.com/logos/power-bi-2.svg" height="40" alt="Power BI"/>
+  </a>
+  <a href="#" title="Tableau">
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software-3.svg" height="40" alt="Tableau"/>
+  </a>
+</div>
 
 </td>
 
@@ -126,5 +166,5 @@ A **Performance Engineer** with **8+ years** of experience building scalable, re
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Performance+Engineering;Artificial+Intellige..."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Performance+Engineering;Artificial+Intelligence;System+Optimization;Cloud+Architecture;Observability+Excellence" alt="Typing SVG" />
 </p>
