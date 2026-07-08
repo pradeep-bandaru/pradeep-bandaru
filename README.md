@@ -120,7 +120,7 @@ A **Performance Engineer** with **8+ years** of experience building scalable, re
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://huggingface.com/pradeep-bandaru">
-<img src="https://skills-icons.vercel.app/api/icons?i=huggingface" height="50"/>
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="50"/>
 </a>
 
 <br><br>
