@@ -1,0 +1,473 @@
+Instructions
+Graded Assignment
+
+Employee Attrition Feature Engineering
+Here is the dataset for the assignment,
+
+Graded Assignment Dataset.csv
+
+Business Problem
+A multinational technology organization has observed an increase in employee attrition over the past few years. To better understand the factors influencing employee turnover and to prepare for future predictive analytics initiatives, the Human Resources (HR) Analytics team has consolidated employee demographic, employment, compensation, performance, learning, and employee survey data from multiple internal systems.
+
+Before predictive models can be developed, the organization requires a comprehensive feature engineering pipeline to transform the raw data into a machine learning-ready dataset. As a Data Scientist, your responsibility is to explore the dataset, identify data quality issues, engineer meaningful features, and prepare the data for downstream modelling.
+
+The dataset provided is synthetic but has been designed to closely resemble a realistic enterprise HR dataset. It contains characteristics commonly observed in real-world datasets, including missing values, skewed distributions, outliers, correlated features, and redundant variables.
+
+Your task is to design an effective feature engineering pipeline by making appropriate preprocessing decisions and providing clear technical justification for every major step.
+
+Important Note
+
+This assignment is designed to evaluate your understanding of feature engineering concepts and your ability to apply them appropriately to a real-world problem.
+
+There is no single correct solution for this assignment. Multiple technically sound approaches are acceptable, provided they are supported by appropriate analysis and justification.
+
+Students are encouraged to make independent feature engineering decisions based on the characteristics of the dataset.
+
+Marks will be awarded based on the quality of analysis, justification for decisions, and overall effectiveness of the feature engineering pipeline.
+
+Assignment Objective
+
+The objective of this assignment is to apply feature engineering techniques to prepare a real-world style HR dataset for future machine learning applications.
+
+You are expected to analyze the dataset, identify data quality issues, make appropriate feature engineering decisions, construct meaningful features, evaluate feature selection and dimensionality reduction techniques, and develop a reusable preprocessing pipeline.
+
+This assignment emphasizes decision-making, reasoning, and justification rather than simply applying feature engineering techniques.
+
+
+Dataset Description
+
+The dataset contains employee demographic, employment, compensation, performance, learning, and employee engagement information collected from multiple HR systems within a multinational technology organization. It has been created to simulate a realistic enterprise HR analytics dataset for feature engineering tasks.
+
+Each row represents one employee.
+
+The dataset consists of 5,000 employee records and 39 variables, including the target variable (Attrition).
+
+Target Variable:
+
+The target variable is Attrition, where:
+
+0 – Employee Stayed
+1 – Employee Left
+Dataset Features
+
+Feature
+
+Type
+
+Description
+
+Employee_ID
+
+Identifier
+
+Unique employee identifier
+
+Age
+
+Numeric
+
+Employee age (in years)
+
+Gender
+
+Categorical
+
+Employee gender
+
+Marital_Status
+
+Categorical
+
+Employee's marital status
+
+Education_Level
+
+Ordinal
+
+Highest educational qualification
+
+Department
+
+Categorical
+
+Department within the organization
+
+Job_Role
+
+Categorical
+
+Current job role
+
+Total_Work_Experience
+
+Numeric
+
+Total professional experience (in years)
+
+Years_at_Company
+
+Numeric
+
+Years worked in the current organization
+
+Years_in_Current_Role
+
+Numeric
+
+Years spent in the current role
+
+Promotion_Count
+
+Numeric
+
+Total number of promotions received
+
+Business_Travel
+
+Categorical
+
+Frequency of business travel
+
+Work_Mode
+
+Categorical
+
+Employee work arrangement (Office, Hybrid, Remote)
+
+Distance_From_Home
+
+Numeric
+
+Distance between residence and workplace (km)
+
+Monthly_Salary
+
+Numeric
+
+Monthly gross salary
+
+Annual_Bonus
+
+Numeric
+
+Annual performance bonus
+
+Stock_Option_Value
+
+Numeric
+
+Estimated value of stock options allocated
+
+Overtime_Hours
+
+Numeric
+
+Average monthly overtime hours
+
+Monthly_Expenses
+
+Numeric
+
+Estimated monthly expenses
+
+Compensation_Band
+
+Ordinal
+
+Salary band (Low, Medium, High)
+
+Performance_Rating
+
+Ordinal
+
+Annual employee performance rating
+
+Manager_Rating
+
+Ordinal
+
+Manager's performance evaluation
+
+Training_Hours
+
+Numeric
+
+Annual training hours completed
+
+Certification_Count
+
+Numeric
+
+Number of professional certifications completed
+
+Project_Count
+
+Numeric
+
+Number of projects handled in the previous year
+
+Job_Satisfaction
+
+Ordinal
+
+Overall job satisfaction score
+
+Work_Life_Balance
+
+Ordinal
+
+Employee work-life balance score
+
+Environment_Satisfaction
+
+Ordinal
+
+Satisfaction with the workplace environment
+
+Relationship_Satisfaction
+
+Ordinal
+
+Satisfaction with workplace relationships
+
+Recognition_Score
+
+Ordinal
+
+Employee recognition score
+
+Manager_Support
+
+Ordinal
+
+Perceived manager support score
+
+Engagement_Index
+
+Numeric
+
+Overall employee engagement index
+
+Productivity_Index
+
+Numeric
+
+Overall productivity score
+
+Financial_Stress_Index
+
+Numeric
+
+Financial stress indicator
+
+Attendance_Score
+
+Numeric
+
+Attendance performance score
+
+Career_Growth_Index
+
+Numeric
+
+Career growth indicator
+
+Annual_Compensation
+
+Numeric
+
+Total annual compensation (salary, bonus, and stock options)
+
+Experience_Band
+
+Ordinal
+
+Experience category based on total work experience
+
+Attrition
+
+Binary
+
+Target variable indicating employee attrition (0 = Stayed, 1 = Left)
+
+ 
+
+ 
+
+
+Assignment Tasks
+
+Part A – Understanding the Dataset (4 Marks)
+
+Objective
+
+Explore the dataset to understand its structure and identify characteristics that may impact downstream machine learning tasks.
+
+Directions
+
+Your analysis should include:
+
+Identify feature types and summarize the dataset.
+Examine numerical distributions and relationships using appropriate visualizations.
+Identify missing values, outliers, skewed variables, and other data quality issues.
+Summarize key observations that will influence your feature engineering decisions.
+Expected Deliverables
+
+Exploratory data analysis with supporting visualizations.
+Summary of key observations and identified data quality issues.
+Part B – Designing a Feature Engineering Strategy (6 Marks)
+
+Objective
+
+Prepare the dataset for machine learning by applying appropriate feature engineering techniques.
+
+Directions
+
+Your work should include:
+
+Handle missing values and other data quality issues.
+Apply suitable preprocessing and transformations to numerical and categorical variables.
+Justify every major feature engineering decision.
+Briefly discuss alternative approaches where appropriate.
+Expected Deliverables
+
+Feature-engineered dataset after preprocessing.
+Justification for the techniques applied.
+Part C – Feature Construction & Feature Selection (4 Marks)
+
+Objective
+
+Improve the dataset by creating meaningful features and selecting the most relevant variables.
+
+Directions
+
+Your work should include:
+
+Construct meaningful new features using existing variables.
+Explain the business intuition behind the engineered features.
+Identify redundant, highly correlated, or less informative features.
+Justify your feature selection decisions.
+Expected Deliverables
+
+List of engineered features with justification.
+Final selected feature set.
+Part D – Dimensionality Reduction & Pipeline Design (4 Marks)
+
+Objective
+
+Evaluate whether dimensionality reduction is appropriate and develop a reusable preprocessing pipeline.
+
+Directions
+
+Your work should include:
+
+Assess whether dimensionality reduction is beneficial.
+Apply and interpret the technique, if appropriate.
+Develop a reusable preprocessing pipeline integrating all feature engineering steps.
+Expected Deliverables
+
+Justification for dimensionality reduction.
+Reusable preprocessing pipeline.
+Part E – Summary & Reflection (2 Marks)
+
+Objective
+
+Summarize the overall feature engineering process and key decisions.
+
+Directions
+
+Provide a brief summary covering:
+
+Important feature engineering decisions.
+Challenges encountered.
+Benefits of the final preprocessing pipeline.
+Assumptions or limitations, if any.
+Expected Deliverables
+
+A concise summary of your overall approach and findings.
+
+Evaluation Criteria
+
+Students will be graded primarily on:
+
+Correct application of feature engineering concepts.
+Logical reasoning behind feature engineering decisions.
+Clarity, organization, and technical quality of explanations.
+Ability to develop a coherent and reusable feature engineering pipeline.
+Simplicity with strong technical justification will receive higher credit than unnecessarily complex solutions with limited reasoning.
+
+Students will NOT be graded on:
+
+Machine learning model accuracy.
+Achieving the highest predictive performance.
+Using the maximum number of feature engineering techniques.
+
+Submission Requirements
+
+Students are required to submit the following:
+
+1. Jupyter Notebook (.ipynb)
+
+The notebook should include:
+
+Data exploration and analysis
+Feature engineering implementation
+Supporting visualizations
+Explanations and justifications for major decisions
+Final preprocessing pipeline
+2. Feature Engineering Report (PDF)
+
+The report should summarize:
+
+Key findings from the analysis
+Feature engineering approach and justification
+Feature construction and feature selection decisions
+Dimensionality reduction analysis (if applicable)
+Summary of the final preprocessing pipeline
+Note
+
+Ensure the notebook executes successfully from start to finish without manual intervention.
+Clearly state any assumptions made during the feature engineering process.
+Marks will be awarded based on the quality of analysis, technical justification, and clarity of presentation.
+
+Evaluation Rubric
+
+Category
+
+Marks
+
+Description
+
+Data Understanding & Analysis
+
+4
+
+Ability to explore the dataset, identify important characteristics, understand data quality issues, and communicate observations effectively using appropriate analysis and visualizations.
+
+Feature Engineering Decisions
+
+6
+
+Selection and application of appropriate preprocessing and transformation techniques with clear technical reasoning and justification.
+
+Feature Construction & Feature Selection
+
+4
+
+Construction of meaningful new features and selection of relevant variables using appropriate technical reasoning and business intuition.
+
+Dimensionality Reduction & Pipeline Design
+
+4
+
+Appropriate evaluation and application of dimensionality reduction (where applicable) and development of a reusable preprocessing pipeline.
+
+Report Quality & Technical Justification
+
+2
+
+Clarity, organization, technical communication, and quality of justification throughout the assignment.
+
+
+Total Marks: 20
+
