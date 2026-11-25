@@ -250,7 +250,7 @@ def toolbox(t):
     return svg(H, body, "Toolbox: LoadRunner Enterprise, JMeter, k6, Dynatrace, AppDynamics, Grafana, Python, SQL, Oracle and more", t)
 
 
-for name, fn in (("header", header), ("impact", impact), ("perforacle", perforacle), ("accelerators", accelerators),
+for name, fn in (("header", header), ("perforacle", perforacle), ("accelerators", accelerators),
                  ("experience", experience), ("toolbox", toolbox)):
     for th, pal in THEMES.items():
         (OUT / f"{name}-{th}.svg").write_text(fn({**pal, "mut": pal["mut"]}), encoding="utf-8")

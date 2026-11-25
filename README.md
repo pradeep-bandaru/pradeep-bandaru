@@ -10,12 +10,14 @@ I make banking systems behave predictably under load. For more than eight years 
 
 <br>
 
-### Impact
+### Engineering accelerators
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/impact-dark.svg">
-  <img src="assets/impact-light.svg" width="100%" alt="98% less manual effort; load-generator analysis from 4 hours to 5 minutes; 85-90% faster test-data preparation; 4 innovation awards 2024-2026">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/accelerators-dark.svg">
+  <img src="assets/accelerators-light.svg" width="100%" alt="SATM-E2E-Utility (Innovator of the Quarter 2026), LG-Metrics-Extractor (RBC CAA Award 2024), Copilot AI agents (AI Innovator Award 2026), Cheque-Generation-Utility (RBC Rising Star Award 2025)">
 </picture>
+
+<sub>Built for client engagements, so the code isn't public.</sub>
 
 <br>
 
@@ -26,24 +28,10 @@ I make banking systems behave predictably under load. For more than eight years 
   <img src="assets/perforacle-light.svg" width="100%" alt="PerfOracle: Connect, Align, Understand, Correlate, Predict, Experiment, Decide. 2.7% median capacity error, 93.8% go/no-go accuracy, 85% calibrated coverage, about 3 seconds per investigation">
 </picture>
 
-**PerfOracle** takes one ordinary load test plus the monitoring data a team already has (APM, OpenShift, Oracle and PostgreSQL, JVM GC logs, application logs). It answers the question every release review asks: *will this hold at peak, what breaks first, and which fix should we test next?*
-
-- A queueing model fitted to the test predicts capacity at 1.5–7× load. Bootstrap and split-conformal calibration supply uncertainty bands that are honest about what the model doesn't know.
-- Diagnosis covers the full stack: CPU, connection pools, database, downstream services, and G1 garbage-collection pressure correlated with p95 latency.
-- Every AI-written sentence is checked against the evidence, and every number can be traced back to its source file.
+**PerfOracle** answers one question before a release goes live: *can this application handle 3× the users, and if not, what breaks first?*
+You give it one load test and the monitoring data you already have. It predicts how the system will behave at higher load, explains the bottleneck, and suggests which fix to test next. Every number it shows can be traced back to its source.
 
 <sub>The repository is private while the BAMS Hackathon 2026 is being judged. A walkthrough is available on request.</sub>
-
-<br>
-
-### Engineering accelerators
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/accelerators-dark.svg">
-  <img src="assets/accelerators-light.svg" width="100%" alt="SATM-E2E-Utility (Innovator of the Quarter 2026), LG-Metrics-Extractor (RBC CAA Award 2024), Copilot AI agents (AI Innovator Award 2026), Cheque-Generation-Utility (RBC Rising Star Award 2025)">
-</picture>
-
-<sub>Built for client engagements, so the code isn't public.</sub>
 
 <br>
 
