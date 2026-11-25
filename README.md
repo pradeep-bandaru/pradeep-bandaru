@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" width="100%" alt="Pradeep Bandaru, Senior Performance Engineer at Capgemini for Royal Bank of Canada">
+  <img src="assets/header-light.svg" width="100%" alt="Pradeep Bandaru, Lead Performance Engineer at Capgemini for Royal Bank of Canada">
 </picture>
 
 <p align="center">
