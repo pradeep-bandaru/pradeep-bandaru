@@ -1,77 +1,81 @@
-<p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Pradeep Bandaru, Lead Performance Engineer: performance engineering × machine learning"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" width="100%" alt="Pradeep Bandaru, Senior Performance Engineer at Capgemini for Royal Bank of Canada">
+</picture>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pradeep-bandaru-b91b6161"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://huggingface.co/pradeep-bandaru"><img src="https://img.shields.io/badge/Hugging%20Face-Models%20%26%20Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
-  <img src="https://img.shields.io/badge/Experience-8%2B%20years-8B5CF6?style=flat-square" alt="8+ years"/> <img src="https://img.shields.io/badge/Based%20in-Hyderabad-22D3EE?style=flat-square" alt="Hyderabad"/>
-</p>
+  <a href="https://www.linkedin.com/in/pradeep-bandaru-b91b6161"><img src="https://img.shields.io/badge/LinkedIn-pradeep--bandaru-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;<a href="https://huggingface.co/pradeep-bandaru"><img src="https://img.shields.io/badge/Hugging%20Face-pradeep--bandaru-FFB000?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face"></a></p>
 
-### Hi, I'm Pradeep 👋
+I make banking systems behave predictably under load. For more than eight years at **Capgemini** I've owned performance engineering for **Royal Bank of Canada** platforms. That covers the whole path, from NFRs and workload models through LoadRunner Enterprise execution and Dynatrace root-cause analysis to production sign-off. Increasingly I build tools so the analysis no longer depends on manual effort: Python accelerators, Copilot AI agents, and **PerfOracle**, which predicts how an application will behave at 3× load before it ships.
 
-I've spent 8+ years making enterprise banking and insurance systems fast and stable, and making their performance **predictable**. My work sits where load testing, observability and machine learning meet. I like questions such as *"what breaks first at 3× traffic, and why?"*, and answering them with evidence rather than guesswork.
+<br>
 
-- 🔭 **Building:** PerfOracle, a tool that predicts how an application behaves at 3× load from a single load test
-- 🎓 **Studying:** MSc Data Science & AI at BITS Pilani
-- 🏦 **Domain:** core banking, payments, cards and insurance platforms
-- 💬 **Ask me about:** capacity modelling, JVM/GC tuning, APM-driven root cause, and turning test results into go/no-go decisions
+### Impact
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/impact-dark.svg">
+  <img src="assets/impact-light.svg" width="100%" alt="98% less manual effort; load-generator analysis from 4 hours to 5 minutes; 85-90% faster test-data preparation; 4 innovation awards 2024-2026">
+</picture>
 
-## ⭐ Featured project
+<br>
 
-<p align="center">
-  <img src="assets/perforacle.svg" width="100%" alt="PerfOracle: Connect, Align, Understand, Correlate, Predict, Experiment, Decide. 2.7% median capacity error, 93.8% go/no-go accuracy"/>
-</p>
+### Featured project
 
-**PerfOracle** combines one ordinary load test with the APM, platform, database, JVM and log evidence a team already collects, and turns them into an evidence-backed release decision:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/perforacle-dark.svg">
+  <img src="assets/perforacle-light.svg" width="100%" alt="PerfOracle: Connect, Align, Understand, Correlate, Predict, Experiment, Decide. 2.7% median capacity error, 93.8% go/no-go accuracy, 85% calibrated coverage, about 3 seconds per investigation">
+</picture>
 
-- **Connects** to 20 tool formats (JMeter, LoadRunner, Dynatrace, AppMon, OpenShift, Oracle, PostgreSQL, GC logs and more) and aligns them on one clock
-- **Predicts** capacity at 1.5–7× load with a queueing model fitted to the test, and gives calibrated uncertainty bands (bootstrap + split-conformal)
-- **Explains** the bottleneck (CPU, connection pool, DB, downstream service or GC) and ranks the experiments that would prove the fix
-- **Verifies** every AI-written claim against the evidence; every number traces back to a source file
+**PerfOracle** takes one ordinary load test plus the monitoring data a team already has (APM, OpenShift, Oracle and PostgreSQL, JVM GC logs, application logs). It answers the question every release review asks: *will this hold at peak, what breaks first, and which fix should we test next?*
 
-<sub>🔒 The repository stays private while the BAMS Hackathon 2026 is being judged. A demo is available on request.</sub>
+- A queueing model fitted to the test predicts capacity at 1.5–7× load. Bootstrap and split-conformal calibration supply uncertainty bands that are honest about what the model doesn't know.
+- Diagnosis covers the full stack: CPU, connection pools, database, downstream services, and G1 garbage-collection pressure correlated with p95 latency.
+- Every AI-written sentence is checked against the evidence, and every number can be traced back to its source file.
 
-<br/>
+<sub>The repository is private while the BAMS Hackathon 2026 is being judged. A walkthrough is available on request.</sub>
 
-## 🧭 What I do
+<br>
 
-<table>
-<tr>
-<td width="33%" valign="top">
+### Engineering accelerators
 
-#### ⚡ Performance engineering
-Workload modelling, load / stress / soak / spike testing, capacity planning, and SLA and go-live readiness for high-volume transaction systems.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/accelerators-dark.svg">
+  <img src="assets/accelerators-light.svg" width="100%" alt="SATM-E2E-Utility (Innovator of the Quarter 2026), LG-Metrics-Extractor (RBC CAA Award 2024), Copilot AI agents (AI Innovator Award 2026), Cheque-Generation-Utility (RBC Rising Star Award 2025)">
+</picture>
 
-</td>
-<td width="33%" valign="top">
+<sub>Built for client engagements, so the code isn't public.</sub>
 
-#### 🔍 Observability & root cause
-Tracing bottlenecks across application, JVM, database and infrastructure with APM. GC and heap analysis, SQL tuning, and Kubernetes / OpenShift sizing.
+<br>
 
-</td>
-<td width="33%" valign="top">
+### Experience
 
-#### 🧠 ML for systems
-Models that are part statistics, part queueing physics, for capacity prediction. Anomaly detection, forecasting, and AI assistants grounded in verified evidence.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg">
+  <img src="assets/experience-light.svg" width="100%" alt="2022 to present: Senior Consultant, Capgemini, Royal Bank of Canada. 2017 to 2019: Senior Software Engineer, Capgemini, RBC Wealth Management. 2015 to 2017: Software Engineer, Capgemini, Associated Bank and MGM Resorts">
+</picture>
 
-</td>
-</tr>
-</table>
+I also mentor performance engineering teams, contribute to Performance CoE initiatives, and lead Gen-AI adoption through agents and shared engineering frameworks.
 
-## 🛠️ Toolbox
+<br>
 
-**Load & performance testing**<br/> <img src="https://img.shields.io/badge/LoadRunner-1F2937?style=flat-square" alt="LoadRunner"/> <img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white" alt="JMeter"/> <img src="https://img.shields.io/badge/NeoLoad-00AEEF?style=flat-square" alt="NeoLoad"/> <img src="https://img.shields.io/badge/Gatling-FF9E2C?style=flat-square" alt="Gatling"/> <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white" alt="k6"/>
+### Toolbox
 
-**Observability & APM**<br/> <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white" alt="Dynatrace"/> <img src="https://img.shields.io/badge/AppDynamics-30B980?style=flat-square" alt="AppDynamics"/> <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/toolbox-dark.svg">
+  <img src="assets/toolbox-light.svg" width="100%" alt="LoadRunner Enterprise, Apache JMeter, k6, Postman, SoapUI, Dynatrace, AppDynamics, Grafana, PerfMon, Python, SQL, PowerShell, JavaScript, Oracle, SQL Server, IBM Db2, MySQL and more">
+</picture>
 
-**Data, ML & languages**<br/> <img src="https://skillicons.dev/icons?i=python,java,js,bash,sklearn,pytorch&theme=dark" alt="Python, Java, JavaScript, Bash, scikit-learn, PyTorch"/>
+<br>
 
-**Cloud, platforms & databases**<br/> <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,postgres,mongodb,redis&theme=dark" alt="Docker, Kubernetes, AWS, Azure, PostgreSQL, MongoDB, Redis"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square" alt="Oracle" height="22"/> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square" alt="SQL Server" height="22"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" height="22"/>
+### Credentials
 
-<br/>
+| **MSc Data Science & AI** | BITS Pilani (in progress) |
+|---|---|
+| **B.Tech, Electronics & Communication** | JNTU Kakinada, 2013 |
+| **LoadRunner Professional, Ocean certification** | Practitioner & Master, 2025 |
+| **Microsoft Certified: AI Fundamentals** | 2025 |
+| **Python certification** | freeCodeCamp, 2026 |
 
-<p align="center">
-  <i>"Performance isn't just speed. It's knowing how your system behaves on its worst day, before that day arrives."</i>
-</p>
+<br>
+
+<p align="center"><sub>Performance work is about knowing how a system behaves on its worst day, before that day arrives.</sub></p>
