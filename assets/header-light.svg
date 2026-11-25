@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Pradeep Bandaru, Senior Performance Engineer at Capgemini for Royal Bank of Canada">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Pradeep Bandaru, Lead Performance Engineer at Capgemini for Royal Bank of Canada">
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset=".6" stop-color="#F6F7FF"/><stop offset="1" stop-color="#EFEAFF"/></linearGradient>
   <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0E7490"/><stop offset=".55" stop-color="#6D28D9"/><stop offset="1" stop-color="#BE185D"/></linearGradient>
@@ -10,7 +10,7 @@
 <rect width="1200" height="360" rx="20" fill="url(#glow)"/>
 <text x="64" y="92" font-size="15" font-weight="700" fill="#0E7490" text-anchor="start" letter-spacing="2.4">PERFORMANCE ENGINEERING  ·  ML FOR SYSTEMS</text>
 <text x="61" y="166" font-size="70" font-weight="800" fill="#0F172A" letter-spacing="-1">Pradeep Bandaru</text>
-<text x="64" y="214" font-size="30" font-weight="600" fill="#0F172A" text-anchor="start" >Senior Performance Engineer</text>
+<text x="64" y="214" font-size="30" font-weight="600" fill="#0F172A" text-anchor="start" >Lead Performance Engineer</text>
 <rect x="64" y="236" width="88" height="4" rx="2" fill="url(#acc)"/>
 <text x="64" y="278" font-size="19" font-weight="400" fill="#334155" text-anchor="start" >Capgemini  ·  Royal Bank of Canada  ·  8+ years in banking &amp; financial services</text>
 <text x="64" y="308" font-size="19" font-weight="400" fill="#5B6577" text-anchor="start" >MSc Data Science &amp; AI, BITS Pilani  ·  Hyderabad, India</text>

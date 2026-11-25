@@ -86,7 +86,7 @@ def header(t):
 <rect width="{W}" height="{H}" rx="20" fill="url(#glow)"/>
 {kicker(64, 92, "PERFORMANCE ENGINEERING  ·  ML FOR SYSTEMS", t)}
 <text x="61" y="166" font-size="70" font-weight="800" fill="{t['txt']}" letter-spacing="-1">Pradeep Bandaru</text>
-{T(64, 214, "Senior Performance Engineer", 30, t['txt'], 600)}
+{T(64, 214, "Lead Performance Engineer", 30, t['txt'], 600)}
 <rect x="64" y="236" width="88" height="4" rx="2" fill="url(#acc)"/>
 {T(64, 278, "Capgemini  ·  Royal Bank of Canada  ·  8+ years in banking & financial services", 19, t['sub'])}
 {T(64, 308, "MSc Data Science & AI, BITS Pilani  ·  Hyderabad, India", 19, t['mut'])}
@@ -101,7 +101,7 @@ def header(t):
 {T(kx - 16, sla - 16, "find the knee before users do", 16, t['pink'], 700, "end")}
 {T(x0, y0 + 30, "load  →", 15, t['mut'], 600)}
 {T(x0 - 14, (y0 + y1) / 2, "p95 latency", 15, t['mut'], 600, "middle", f'transform="rotate(-90 {x0 - 14} {(y0 + y1) / 2:.0f})"')}'''
-    return svg(H, body, "Pradeep Bandaru, Senior Performance Engineer at Capgemini for Royal Bank of Canada", t, css)
+    return svg(H, body, "Pradeep Bandaru, Lead Performance Engineer at Capgemini for Royal Bank of Canada", t, css)
 
 
 # ------------------------------------------------------------------------------------------------ 2. impact strip
